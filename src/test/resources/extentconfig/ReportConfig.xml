@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+	<configuration>
+
+		<theme>standard</theme>
+		<encoding>UTF-8</encoding>
+		<protocol>HTTPS</protocol>
+		<documentTitle>Murali Automation Reports</documentTitle>
+		<reportName>Automation Report for</reportName>
+		<reportHeadline>Data Driven Framework </reportHeadline>
+		<dateFormat>HH:mm:ss</dateFormat>
+
+		<scripts>
+
+<![CDATA[ $(document).ready(function() {  
+});
+]]>
+
+		</scripts>
+	</configuration>
+
+</extentreports>
